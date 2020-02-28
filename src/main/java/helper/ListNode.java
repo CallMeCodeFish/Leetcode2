@@ -24,4 +24,17 @@ public class ListNode {
         }
         return head.next;
     }
+
+    @Override
+    public String toString() {
+        ListNode cur = this;
+        StringBuilder sb = new StringBuilder();
+        while (cur != null) {
+            sb.append(cur.val);
+            sb.append("->");
+            cur = cur.next;
+        }
+        sb.delete(sb.length() - 2, sb.length());
+        return sb.toString();
+    }
 }
