@@ -3,4 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 22
+#### by far: 36
+
+#### canonical questions
+- q29
