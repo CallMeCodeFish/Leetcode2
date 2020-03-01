@@ -3,7 +3,8 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 36
+#### by far: 53
 
 #### canonical questions
-- q29
+- q29 Divide Two Integers
+- q43 Multiply Strings
