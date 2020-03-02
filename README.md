@@ -3,8 +3,10 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 53
+#### by far: 64
 
 #### canonical questions
 - q29 Divide Two Integers
 - q43 Multiply Strings
+- q55 Jump Game
+- q60 Permutation Sequence
