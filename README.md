@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 64
+#### by far: 78
 
 #### canonical questions
 - q29 Divide Two Integers
