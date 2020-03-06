@@ -14,3 +14,5 @@ At least ten questions per day.
 - q82 Remove Duplicates from Sorted List II
 - q95 Unique Binary Search Tree II
 - q96 Unique Binary Search Tree
+- q116 Populating Next Right Pointers in Each Node
+- q117 Populating Next Right Pointers in Each Node
