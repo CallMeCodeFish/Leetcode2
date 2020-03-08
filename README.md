@@ -18,3 +18,5 @@ At least ten questions per day.
 - q117 Populating Next Right Pointers in Each Node
 - q127 Word Ladder
 - q130 Surrounded Regions
+- q137 Single Number II
+- q147: Insertion Sort List
