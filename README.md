@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 134
+#### by far: 169
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -20,3 +20,5 @@ At least ten questions per day.
 - q130 Surrounded Regions
 - q137 Single Number II
 - q147: Insertion Sort List
+- q166 Fraction to Recurring Decimal
+- q169 Majority Element
