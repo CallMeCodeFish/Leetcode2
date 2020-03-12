@@ -22,3 +22,5 @@ At least ten questions per day.
 - q147: Insertion Sort List
 - q166 Fraction to Recurring Decimal
 - q169 Majority Element
+- q186 Reverse Words in a String II
+- q187 Repeated DNA Sequences
