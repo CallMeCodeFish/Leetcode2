@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 169
+#### by far: 207
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -25,3 +25,4 @@ At least ten questions per day.
 - q186 Reverse Words in a String II
 - q187 Repeated DNA Sequences
 - q201 Bitwise AND of Number Range
+- q207 Course Schedule
