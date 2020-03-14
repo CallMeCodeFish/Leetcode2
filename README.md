@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 207
+#### by far: 220
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -26,3 +26,5 @@ At least ten questions per day.
 - q187 Repeated DNA Sequences
 - q201 Bitwise AND of Number Range
 - q207 Course Schedule
+- q210 Course Schedule II
+- q220 Contains Duplicate III
