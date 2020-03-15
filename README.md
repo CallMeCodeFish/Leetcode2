@@ -28,3 +28,7 @@ At least ten questions per day.
 - q207 Course Schedule
 - q210 Course Schedule II
 - q220 Contains Duplicate III
+- q221 Maximal Square
+- q227 Basic Calculator II
+- q229 Majority Element II (important)
+- q230 Kth Smallest Element in BST
