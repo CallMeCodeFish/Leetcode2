@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 220
+#### by far: 246
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -32,3 +32,6 @@ At least ten questions per day.
 - q227 Basic Calculator II
 - q229 Majority Element II (important)
 - q230 Kth Smallest Element in BST
+- q236 Lowest Common Ancestor of a Binary Tree
+- q240 Search a 2D Matrix II
+- q241 Different Ways to Add Parentheses
