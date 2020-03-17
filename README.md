@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 246
+#### by far: 256
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -35,3 +35,6 @@ At least ten questions per day.
 - q236 Lowest Common Ancestor of a Binary Tree
 - q240 Search a 2D Matrix II
 - q241 Different Ways to Add Parentheses
+- q249 Group Shifted Strings
+- q250 Factor Combination (important)
+- q255 Verify Preorder Sequence in Binary Search Tree (very important)
