@@ -38,3 +38,7 @@ At least ten questions per day.
 - q249 Group Shifted Strings
 - q250 Factor Combination (important)
 - q255 Verify Preorder Sequence in Binary Search Tree (very important)
+- q259 3Sum Smaller (important)
+- q260 Single Number III
+- q261 Graph Valid Tree
+- q264 Ugly Number II
