@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 268
+#### by far: 294
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -43,3 +43,6 @@ At least ten questions per day.
 - q261 Graph Valid Tree
 - q264 Ugly Number II
 - q274 H-Index
+- q289 Wiggle Sort
+- q287 Find the Duplicate Number (very important)
+- q294 Flip Game II
