@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 294
+#### by far: 307
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -46,3 +46,6 @@ At least ten questions per day.
 - q289 Wiggle Sort
 - q287 Find the Duplicate Number (very important)
 - q294 Flip Game II
+- q298 Binary Tree Longest Consecutive Sequence
+- q300 Longest Increasing Subsequence (important)
+- q307 Range Sum Query - Mutable (segment tree)
