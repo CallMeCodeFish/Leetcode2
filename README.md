@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 307
+#### by far: 314
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -49,3 +49,4 @@ At least ten questions per day.
 - q298 Binary Tree Longest Consecutive Sequence
 - q300 Longest Increasing Subsequence (important)
 - q307 Range Sum Query - Mutable (segment tree)
+- q309 Best Time to Buy and Sell Stock with Cool Down
