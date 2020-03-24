@@ -50,3 +50,4 @@ At least ten questions per day.
 - q300 Longest Increasing Subsequence (important)
 - q307 Range Sum Query - Mutable (segment tree)
 - q309 Best Time to Buy and Sell Stock with Cool Down
+- q322 Coin Change
