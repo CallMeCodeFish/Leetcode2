@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 314
+#### by far: 326
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -51,3 +51,5 @@ At least ten questions per day.
 - q307 Range Sum Query - Mutable (segment tree)
 - q309 Best Time to Buy and Sell Stock with Cool Down
 - q322 Coin Change
+- q325 Maximum Size Subarray Sum Equals k
+
