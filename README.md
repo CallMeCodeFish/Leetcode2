@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 342
+#### by far: 351
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -53,4 +53,5 @@ At least ten questions per day.
 - q322 Coin Change
 - q325 Maximum Size Subarray Sum Equals k
 - q332 reconstruct itinerary (very important)
+- q355 Design Twitter
 
