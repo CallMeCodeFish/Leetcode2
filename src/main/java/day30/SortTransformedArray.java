@@ -21,16 +21,46 @@ public class SortTransformedArray {
 
     public int[] sortTransformedArray(int[] nums, int a, int b, int c) {
         int[] res = new int[nums.length];
-        int i = 0, j = nums.length - 1, k = nums.length - 1;
-        while (i <= j) {
-            int left = calculate(a, b, c, nums[i]);
-            int right = calculate(a, b, c, nums[j]);
-            if (left > right) {
-                res[k--] = left;
-                ++i;
+        if (a == 0) {
+            if (b >= 0) {
+                for (int i = 0; i < nums.length; ++i) {
+                    res[i] = calculate(a, b, c, nums[i]);
+                }
             } else {
-                res[k--] = right;
-                --j;
+                int j = 0;
+                for (int i = nums.length - 1; i >= 0; --i) {
+                    res[j++] = calculate(a, b, c, nums[i]);
+                }
+            }
+        } else {
+            int i = 0;
+            int j = nums.length - 1;
+            if (a > 0) {
+                int k = res.length - 1;
+                while (i <= j) {
+                    int left = calculate(a, b, c, nums[i]);
+                    int right = calculate(a, b, c, nums[j]);
+                    if (left > right) {
+                        res[k--] = left;
+                        ++i;
+                    } else {
+                        res[k--] = right;
+                        --j;
+                    }
+                }
+            } else {
+                int k = 0;
+                while (i <= j) {
+                    int left = calculate(a, b, c, nums[i]);
+                    int right = calculate(a, b, c, nums[j]);
+                    if (left > right) {
+                        res[k++] = right;
+                        --j;
+                    } else {
+                        res[k++] = left;
+                        ++i;
+                    }
+                }
             }
         }
         return res;
