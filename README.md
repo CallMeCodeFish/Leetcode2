@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 371
+#### by far: 382
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -54,4 +54,6 @@ At least ten questions per day.
 - q325 Maximum Size Subarray Sum Equals k
 - q332 reconstruct itinerary (very important)
 - q355 Design Twitter
-
+- q373 Find K Pairs with Smallest Sums
+- q375 Guess Number Higher or Lower II
+- q380 Insert Delete GetRandom O(1)
