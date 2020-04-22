@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 382
+#### by far: 395
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -57,3 +57,4 @@ At least ten questions per day.
 - q373 Find K Pairs with Smallest Sums
 - q375 Guess Number Higher or Lower II
 - q380 Insert Delete GetRandom O(1)
+- q395 Longest Substring with at least K repeating characters (very important)
