@@ -60,3 +60,4 @@ At least ten questions per day.
 - q395 Longest Substring with at least K repeating characters (very important)
 - q399 Evaluate Division
 - q401 Remove k digits
+- q406 Queue reconstruction by height
