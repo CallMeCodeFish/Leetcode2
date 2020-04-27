@@ -60,4 +60,6 @@ At least ten questions per day.
 - q395 Longest Substring with at least K repeating characters (very important)
 - q399 Evaluate Division
 - q401 Remove k digits
+- q403 Frog jump
 - q406 Queue reconstruction by height
+- q421 Maximum XOR of two numbers in an array [ref](https://www.jianshu.com/p/5575af8edaa1)
