@@ -65,3 +65,5 @@ At least ten questions per day.
 - q421 Maximum XOR of two numbers in an array [ref](https://www.jianshu.com/p/5575af8edaa1)
 - q407 Trapping rain water II [ref](https://segmentfault.com/a/1190000008353447?utm_source=debugrun&utm_medium=referral)
 - q442: Find all duplicates in an array
+- q1192: Critical connections in a network [ref](https://blog.csdn.net/u013325815/article/details/104572092/)
+
