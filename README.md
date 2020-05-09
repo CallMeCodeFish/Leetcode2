@@ -67,3 +67,4 @@ At least ten questions per day.
 - q442: Find all duplicates in an array
 - q1192: Critical connections in a network [ref](https://blog.csdn.net/u013325815/article/details/104572092/)
 - q269: Alien dictionary
+- q1130: Minimum cost tree from leaf values
