@@ -3,7 +3,7 @@
 #### requirement:
 At least ten questions per day.
 
-#### by far: 395
+#### by far: questions after the first 400 and all hard questions
 
 #### canonical questions
 - q29 Divide Two Integers
@@ -69,3 +69,5 @@ At least ten questions per day.
 - q269: Alien dictionary
 - q1130: Minimum cost tree from leaf values
 - q735: Asteroid collision
+- q295: Find median from data stream
+- q41: First missing positive
