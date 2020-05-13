@@ -71,3 +71,5 @@ At least ten questions per day.
 - q735: Asteroid collision
 - q295: Find median from data stream
 - q41: First missing positive
+- q1197: Minimum knight moves (boundary condition is tricky)
+- q128: Longest consecutive sequence
