@@ -41,7 +41,7 @@ public class MinimumKnightMoves {
                     poll[0] += dir[0];
                     poll[1] += dir[1];
 
-                    if (poll[0] >= 0 && poll[1] >= 0) {
+                    if (poll[0] >= -1 && poll[1] >= -1) {
                         String s = Arrays.toString(poll);
                         if (!visited.contains(s)) {
                             visited.add(s);
