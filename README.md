@@ -73,3 +73,4 @@ At least ten questions per day.
 - q41: First missing positive
 - q1197: Minimum knight moves (boundary condition is tricky)
 - q128: Longest consecutive sequence
+- 863: All nodes distance K in binary tree
