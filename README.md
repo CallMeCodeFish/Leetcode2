@@ -81,3 +81,4 @@ At least ten questions per day.
 - q218: The skyline problem [ref1](https://www.bilibili.com/video/BV164411r7QC?from=search&seid=16565360332674651145) [ref2](https://www.bilibili.com/video/BV11J411c7KV?from=search&seid=16565360332674651145)
 - q432: All O(1) data structure
 - q772 Basic calculator III
+- q460 LFU cache
