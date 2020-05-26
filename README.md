@@ -82,3 +82,6 @@ At least ten questions per day.
 - q432: All O(1) data structure
 - q772 Basic calculator III
 - q460 LFU cache
+- q721 Accounts merge
+- q472 Concatenated words
+- q315 Count of Smaller numbers after self
