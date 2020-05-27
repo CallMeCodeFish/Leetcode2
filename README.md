@@ -86,3 +86,6 @@ At least ten questions per day.
 - q472 Concatenated words
 - q315 Count of Smaller numbers after self
 - q518 Coin change 2 (important)
+- q909 Snakes and ladders
+- q32 Longest valid parentheses
+- q97 interleaving string
