@@ -89,3 +89,6 @@ At least ten questions per day.
 - q909 Snakes and ladders
 - q32 Longest valid parentheses
 - q97 interleaving string
+- q1110 Delete nodes and return forest
+- q991 Broken calculator
+- q465 Optimal account balancing (important)
