@@ -92,3 +92,5 @@ At least ten questions per day.
 - q1110 Delete nodes and return forest
 - q991 Broken calculator
 - q465 Optimal account balancing (important)
+- q126 Word ladder II
+- q1163 Last substring in lexicographical order
