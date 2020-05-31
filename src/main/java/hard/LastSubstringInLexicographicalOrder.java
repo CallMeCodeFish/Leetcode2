@@ -33,15 +33,20 @@ public class LastSubstringInLexicographicalOrder {
 
         int j = start + 1;
         int i = 0;
-        boolean flag = false;
+        boolean toCompare = false;
         int nextStart = 0;
         while (j < chs.length) {
-            if (flag) {
+            if (toCompare) {
                 if (chs[i] < chs[j]) {
                     start = nextStart;
-                    flag = false;
+                    if (chs[j] == max) {
+                        nextStart = j;
+                        i = start + 1;
+                    } else {
+                        toCompare = false;
+                    }
                 } else if (chs[i] > chs[j]) {
-                    flag = false;
+                    toCompare = false;
                 } else {
                     if (chs[j] == max) {
                         int k = j;
@@ -62,7 +67,7 @@ public class LastSubstringInLexicographicalOrder {
                 }
             } else {
                 if (chs[j] == max) {
-                    flag = true;
+                    toCompare = true;
                     nextStart = j;
                     i = start + 1;
                 }
