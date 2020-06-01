@@ -94,3 +94,5 @@ At least ten questions per day.
 - q465 Optimal account balancing (important)
 - q126 Word ladder II
 - q1163 Last substring in lexicographical order
+- q698 Partition to k equal sum subsets (NP completeness)
+- q1467 Probability of a two boxes having the same number of distinct balls
