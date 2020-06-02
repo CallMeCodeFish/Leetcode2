@@ -96,3 +96,5 @@ At least ten questions per day.
 - q1163 Last substring in lexicographical order
 - q698 Partition to k equal sum subsets (NP completeness)
 - q1467 Probability of a two boxes having the same number of distinct balls
+- q995 Knight dialer
+- q1239 Maximum length of a concatenated string with unique characters
