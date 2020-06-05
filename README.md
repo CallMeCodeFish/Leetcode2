@@ -99,3 +99,6 @@ At least ten questions per day.
 - q995 Knight dialer
 - q1239 Maximum length of a concatenated string with unique characters
 - q316 Remove duplicate letters
+- q312 Burst balloons (very important) [ref](https://www.bilibili.com/video/BV1pa4y147Ue?from=search&seid=16514278881552505007)
+- q780 Reaching points (very important) [ref](https://www.youtube.com/watch?v=1E39PiQAGvE)
+- q694 Number of distinct islands (important)
