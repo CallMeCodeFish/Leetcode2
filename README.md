@@ -102,3 +102,4 @@ At least ten questions per day.
 - q312 Burst balloons (very important) [ref](https://www.bilibili.com/video/BV1pa4y147Ue?from=search&seid=16514278881552505007)
 - q780 Reaching points (very important) [ref](https://www.youtube.com/watch?v=1E39PiQAGvE)
 - q694 Number of distinct islands (important)
+- q887 Super egg drop [ref](https://www.cnblogs.com/Phantom01/p/9490508.html)
