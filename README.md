@@ -104,3 +104,4 @@ At least ten questions per day.
 - q694 Number of distinct islands (important)
 - q887 Super egg drop [ref](https://www.cnblogs.com/Phantom01/p/9490508.html)
 - q1473 Paint house III [ref](https://leetcode.com/problems/paint-house-iii/discuss/674531/Java-Bottom-Up-Dp)
+- q84 Largest rectangle in histogram
