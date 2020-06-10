@@ -105,3 +105,5 @@ At least ten questions per day.
 - q887 Super egg drop [ref](https://www.cnblogs.com/Phantom01/p/9490508.html)
 - q1473 Paint house III [ref](https://leetcode.com/problems/paint-house-iii/discuss/674531/Java-Bottom-Up-Dp)
 - q84 Largest rectangle in histogram
+- q1011 Capacity to ship packages within D days [ref](https://www.youtube.com/watch?v=-F2ysRiSTvk), same as q410
+- q72 Edit distance
