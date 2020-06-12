@@ -107,3 +107,5 @@ At least ten questions per day.
 - q84 Largest rectangle in histogram
 - q1011 Capacity to ship packages within D days [ref](https://www.youtube.com/watch?v=-F2ysRiSTvk), same as q410
 - q72 Edit distance
+- q490 The maze
+- q1326 Minimum numbers of taps to open to water a garden
