@@ -109,3 +109,4 @@ At least ten questions per day.
 - q72 Edit distance
 - q490 The maze
 - q1326 Minimum numbers of taps to open to water a garden
+- q523 Continuous subarray sum
