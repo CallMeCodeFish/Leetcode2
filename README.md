@@ -110,3 +110,4 @@ At least ten questions per day.
 - q490 The maze
 - q1326 Minimum numbers of taps to open to water a garden
 - q523 Continuous subarray sum
+- q679 24 game [ref](https://www.bilibili.com/video/BV12J41187Z8?from=search&seid=17321198191975451068)
