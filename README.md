@@ -112,3 +112,5 @@ At least ten questions per day.
 - q523 Continuous subarray sum
 - q679 24 game [ref](https://www.bilibili.com/video/BV12J41187Z8?from=search&seid=17321198191975451068)
 - q708 Insert into a sorted circular linked list
+- q1248 Count number of nice subarrays
+- q1293 Shortest path in a grid with obstacles elimination [ref](https://www.bilibili.com/video/BV1KJ411s7qu?from=search&seid=11516308895343339177)
