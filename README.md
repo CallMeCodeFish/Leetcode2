@@ -116,3 +116,5 @@ At least ten questions per day.
 - q1293 Shortest path in a grid with obstacles elimination [ref](https://www.bilibili.com/video/BV1KJ411s7qu?from=search&seid=11516308895343339177)
 - q658 Find k closest elements
 - q1235 Maximum profit in job scheduling [ref1](https://www.youtube.com/watch?v=cr6Ip0J9izc) + [ref2](https://www.youtube.com/watch?v=omnSO-CSFIs)
+- q516 Longest palindromic subsequence
+- q855 Exam room
