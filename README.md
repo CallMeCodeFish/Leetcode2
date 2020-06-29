@@ -118,3 +118,6 @@ At least ten questions per day.
 - q1235 Maximum profit in job scheduling [ref1](https://www.youtube.com/watch?v=cr6Ip0J9izc) + [ref2](https://www.youtube.com/watch?v=omnSO-CSFIs)
 - q516 Longest palindromic subsequence
 - q855 Exam room
+- q616 Add bold tag in string
+- q678 Valid parenthesis string
+- q188 Best time to buy and sell stock IV [ref](https://www.bilibili.com/video/BV15E411f7DR?from=search&seid=15615403893210032406)
