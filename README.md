@@ -123,3 +123,5 @@ At least ten questions per day.
 - q188 Best time to buy and sell stock IV [ref](https://www.bilibili.com/video/BV15E411f7DR?from=search&seid=15615403893210032406)
 - q907 Sum of subarray minimums (important)
 - q969 Pancake sorting [ref](https://leetcode.com/problems/pancake-sorting/discuss/214213/JavaC%2B%2BPython-Straight-Forward)
+- q525 Continuous array
+- q363 Max sum of rectangle no larger than k
