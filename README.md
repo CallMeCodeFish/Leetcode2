@@ -125,3 +125,4 @@ At least ten questions per day.
 - q969 Pancake sorting [ref](https://leetcode.com/problems/pancake-sorting/discuss/214213/JavaC%2B%2BPython-Straight-Forward)
 - q525 Continuous array
 - q363 Max sum of rectangle no larger than k
+- q1297 Maximum number of occurrences of a substring (important)
