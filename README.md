@@ -126,3 +126,5 @@ At least ten questions per day.
 - q525 Continuous array
 - q363 Max sum of rectangle no larger than k
 - q1297 Maximum number of occurrences of a substring (important)
+- q453 Minimum moves to equal array elements (important)
+- q723 Candy crush (important) [ref](https://leetcode.com/problems/candy-crush/discuss/178366/Another-Java-Solution)
