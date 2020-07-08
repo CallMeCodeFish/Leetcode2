@@ -128,3 +128,5 @@ At least ten questions per day.
 - q1297 Maximum number of occurrences of a substring (important)
 - q453 Minimum moves to equal array elements (important)
 - q723 Candy crush (important) [ref](https://leetcode.com/problems/candy-crush/discuss/178366/Another-Java-Solution)
+- q1353 Maximum number of events that can be attended (important) [ref](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/discuss/510263/JavaC%2B%2BPython-Priority-Queue)
+- q296 Best meeting point (very important)
