@@ -130,3 +130,6 @@ At least ten questions per day.
 - q723 Candy crush (important) [ref](https://leetcode.com/problems/candy-crush/discuss/178366/Another-Java-Solution)
 - q1353 Maximum number of events that can be attended (important) [ref](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/discuss/510263/JavaC%2B%2BPython-Priority-Queue)
 - q296 Best meeting point (very important)
+- q503 Next greater element II [ref](https://leetcode.com/problems/next-greater-element-ii/discuss/98270/JavaC%2B%2BPython-Loop-Twice)
+- q132: Palindrome partitioning II (important) [ref](https://www.bilibili.com/video/BV1NJ411v7k9?from=search&seid=17196022073775733924)
+- q489 Robot room cleaner
