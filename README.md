@@ -133,3 +133,5 @@ At least ten questions per day.
 - q503 Next greater element II [ref](https://leetcode.com/problems/next-greater-element-ii/discuss/98270/JavaC%2B%2BPython-Loop-Twice)
 - q132: Palindrome partitioning II (important) [ref](https://www.bilibili.com/video/BV1NJ411v7k9?from=search&seid=17196022073775733924)
 - q489 Robot room cleaner
+- q1073 Adding two negabinary numbers
+- q659 Split array into consecutive subsequences (very important)
