@@ -135,3 +135,5 @@ At least ten questions per day.
 - q489 Robot room cleaner
 - q1073 Adding two negabinary numbers
 - q659 Split array into consecutive subsequences (very important)
+- q1029 Two city scheduling (very important)
+- q467 Unique substrings in wraparound string (important)
