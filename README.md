@@ -137,3 +137,5 @@ At least ten questions per day.
 - q659 Split array into consecutive subsequences (very important)
 - q1029 Two city scheduling (very important)
 - q467 Unique substrings in wraparound string (important)
+- q1057 Campus bikes (very important) [ref](https://www.youtube.com/watch?v=R5OzU68vTKs)
+- q1044 Longest duplicate substring [ref](https://www.bilibili.com/video/BV1Kv411B7a3?from=search&seid=8777189561111407486)
