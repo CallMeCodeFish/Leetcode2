@@ -5,7 +5,9 @@ package newquestion.day56;
  * @date 7/18/20 5:01 PM
  */
 
-
+/**
+ * leetcode 1375: Bulb switcher III
+ */
 public class BulbSwitcherIII {
     public int numTimesAllBlue(int[] light) {
         int res = 0;
