@@ -141,3 +141,5 @@ At least ten questions per day.
 - q1044 Longest duplicate substring [ref](https://www.bilibili.com/video/BV1Kv411B7a3?from=search&seid=8777189561111407486)
 - q846 Hand of straights
 - q233 Number of digit one
+- q1277 Count square submatrices with all ones [ref](https://www.bilibili.com/video/BV14J411q7zX?from=search&seid=4759453948579812916)
+- q741 Cherry pickup [ref](https://www.bilibili.com/video/BV1tW41167jy?from=search&seid=17624102435939004057)
