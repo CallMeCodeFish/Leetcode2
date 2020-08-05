@@ -146,3 +146,4 @@ At least ten questions per day.
 - q743 Network delay time
 - q730 Count different palindromic subsequences [ref](https://www.bilibili.com/video/BV12W41167vQ?from=search&seid=13376393080675175148)
 - q123 Best time to buy and sell stock III
+- q862 Shortest subarray with sum at least K (very important) [ref](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/solution/)
